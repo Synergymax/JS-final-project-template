@@ -6,8 +6,8 @@ var ctx = canvas.getContext("2d");
 jasonImg.src = "images/jason.gif";
 
 var jason = {
-  x:0,
-  y:0
+  x:100,
+  y:100
 };
 
 function draw(){
